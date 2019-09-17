@@ -162,7 +162,7 @@ GEM
     mini_racer (0.1.9)
       libv8 (~> 5.3)
     minitest (5.10.1)
-    mocha (1.1.0)
+    mocha (1.9.0)
       metaclass (~> 0.0.1)
     mock_redis (0.15.4)
     moneta (1.0.0)
