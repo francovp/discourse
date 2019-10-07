@@ -317,7 +317,7 @@ GEM
       rspec-support (~> 3.4.0)
     rspec-support (3.4.1)
     rtlit (0.0.5)
-    ruby-openid (2.7.0)
+    ruby-openid (2.9.1)
     ruby-readability (0.7.0)
       guess_html_encoding (>= 0.0.4)
       nokogiri (>= 1.6.0)
