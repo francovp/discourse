@@ -96,7 +96,7 @@ GEM
       railties (>= 3.1)
     ember-source (2.10.0)
     erubis (2.7.0)
-    excon (0.53.0)
+    excon (0.71.0)
     execjs (2.7.0)
     exifr (1.2.5)
     fabrication (2.9.8)
